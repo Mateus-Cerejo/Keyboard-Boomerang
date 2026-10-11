@@ -1,0 +1,1 @@
+The firmware was built using ZMK's GitHub Actions, the configurations can be found here: https://github.com/Mateus-Cerejo/zmk-config
